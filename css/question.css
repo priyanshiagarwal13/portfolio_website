@@ -1,0 +1,200 @@
+body {
+  background-color: #FFC7C7;
+}
+
+/* Polygon 1 */
+.triangle1 {
+  width: 0;
+  height: 0;
+  border-left: 76px solid transparent;
+  border-right: 74px solid transparent;
+  border-bottom: 135px solid #F0DAC9;
+  margin-left: 25px;
+  margin-top: 18px;
+}
+
+h1 {
+  position: absolute;
+  width: 213px;
+  height: 66px;
+  left: 75px;
+  top: 50px;
+  margin-top: 24px;
+  margin-left: 28px;
+  font-family: Sansation Light;
+  font-family: optima;
+  font-weight: 300;
+  font-size: 70px;
+  line-height: 50px;
+  color: #000000
+}
+h7 {
+  position: absolute;
+  width: 110px;
+  height: 32px;
+  left: 408px;
+  top: 78px;
+  margin-top: 40px;
+  margin-left: 330px;
+  font-family: Rubik One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 25px;
+  color: #000000;
+}
+/* ABOUT */
+h2 {
+  position: absolute;
+  width: 110px;
+  height: 32px;
+  left: 408px;
+  top: 78px;
+  margin-top: 40px;
+  margin-left: 440px;
+  font-family: Rubik One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 25px;
+  color: #000000;
+}
+
+/* PROJECTS */
+h3 {
+  position: absolute;
+  width: 153px;
+  height: 24px;
+  left: 502px;
+  top: 78px;
+  margin-top: 40px;
+  margin-left: 470px;
+  font-family: Rubik One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 25px;
+  color: #000000;
+}
+
+/* BLOGS */
+h4 {
+  position: absolute;
+  width: 90px;
+  height: 24px;
+  left: 634px;
+  top: 78px;
+  margin-top: 40px;
+  margin-left: 500px;
+  font-family: Rubik One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 25px;
+  color: #000000;
+}
+
+/* CONTACT */
+h5 {
+  position: absolute;
+  width: 225px;
+  height: 19px;
+  left: 724px;
+  top: 78px;
+  margin-top: 40px;
+  margin-left: 530px;
+  font-family: Rubik One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 25px;
+  color: #000000;
+}
+h6 {
+  position: absolute;
+  width: 225px;
+  height: 19px;
+  left: 724px;
+  top: 78px;
+  margin-top: 120px;
+  margin-left: -100px;
+  font-family: Rubik One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 30px;
+  color: #000000;
+
+}
+.rectangle {position: absolute;
+width: 770px;
+height: 1233px;
+margin-left: 300px;
+left: 415px;
+top: 0px;
+background: #F7D1C8
+;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FFC7C7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+p {
+  position: absolute;
+width: 800px;
+height: 792px;
+left: 37px;
+top: 264px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 25px;
+
+color: #000000;
+}
+a1:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+
+}
+
+a1:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+
+}
+
+a1:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a1:active {
+  color: #FFC7C7;
+  background-color: transparent;
+  text-decoration: underline;
+}

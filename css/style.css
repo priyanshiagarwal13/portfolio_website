@@ -1,0 +1,22 @@
+<span class="dot1"></span>
+<span class="dot2"></span>
+<span class="dot3"></span>
+<span class="dot4"></span>
+<span class="dot5"></span>
+
+
+
+<form class="" action="mailto:priyanshiagarwal0999@gmail.com" method="post" enctype="text/plain">
+  <label>NAME: </label>
+  <input type="text" name="" value=""><BR /><BR>
+
+
+    <label >PHONE NO:</label>
+    <input type="text" name="" value="" ><BR /><BR />
+    <label>EMAIL ADDRESS:</label>
+      <input type="text" name="" value=""><BR /><BR />
+  <label>YOUR MESSAGE: </label>
+
+  <textarea name="name" rows="5" cols="20"></textarea><BR /><BR />
+  <input type="submit" name="" >
+</form>
